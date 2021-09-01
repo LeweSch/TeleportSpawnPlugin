@@ -1,0 +1,7 @@
+name: TeleportSpawn
+version: 1.0
+author: Lewe
+main: de.lewe.main.TpSpawn
+commands:
+
+     setspawn:
